@@ -73,5 +73,3 @@ The following models were evaluated, with Multinomial Naive Bayes delivering the
 ## Acknowledgments
 
 The dataset used in this project is sourced from the [SMS Spam Collection dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset). Special thanks to the contributors of this dataset for their efforts in compiling such a valuable resource.
-
-
