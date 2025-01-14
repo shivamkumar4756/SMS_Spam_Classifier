@@ -8,3 +8,4 @@ nltk
 seaborn
 wordcloud
 xgboost
+gunicorn
