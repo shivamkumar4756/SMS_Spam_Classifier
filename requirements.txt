@@ -7,3 +7,4 @@ matplotlib
 seaborn
 wordcloud
 xgboost
+gunicorn==19.7.1
